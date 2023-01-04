@@ -1,2 +1,2 @@
 # GitHub Demo
-My first Experience
+My first Experience to demonstrate the knowledge in Git and GitHub
